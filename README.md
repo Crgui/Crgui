@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Guilherme Buzzetti de Souza
 
 - Estudante de Engenharia de Computação - Unicamp
-- Aprendendo Python e C
+- Aprendendo Python, C, Java
 
 <div>
   <a href="https://github.com/Crgui">
@@ -11,6 +11,7 @@
  
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="crgui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="crgui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="crgui-Js" height="30" width="80" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="crgui-Python" height="30" width="80" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="crgui-Python" height="30" width="40" src= 	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white>
 </div>
